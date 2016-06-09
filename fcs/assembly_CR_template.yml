@@ -1,0 +1,11 @@
+Name: CR-Assembly
+HardwareGroup:  empty
+Version: next
+ShortDescription: Demo CR BOM ingest 
+Sequence:
+   -  Name: CR-Assembly-action
+      Version: next
+      ShortDescription: Assembly Demo
+      Description:  None for now
+      RelationshipTasks:
+        -
